@@ -2,7 +2,7 @@
 ## Asignatura: Entornos de Desarrollo - 1ºDAM
 
 #### Capturas de pantalla del inicio del NumComplejo.java
-![Pantalla inicial](https://github.com/Alegarse/EED/blob/master/Complejos/img/captura.PNG)
+![Pantalla inicial](https://github.com/Alegarse/EED/blob/master/Complejos/img/Captura.PNG)
 
 ### Introduccion
 **Consiste en realizar todos los comentarios JavaDoc pertenecientes al ejercicio propuesto.**
@@ -15,4 +15,4 @@
 4. División:
 
 #### Capturas de pantalla de la salida por pantalla del ProgramaComplejo2.java
-![Pantalla inicial](https://github.com/Alegarse/EED/blob/master/Complejos/img/captura2.PNG)
+![Pantalla inicial](https://github.com/Alegarse/EED/blob/master/Complejos/img/Captura2.PNG)
