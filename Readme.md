@@ -5,4 +5,5 @@ Consiste en realizar todos los comentarios JavaDoc pertenecientes al ejercicio p
 
 
 ### Capturas de pantalla de muestra
-![Pantalla inicial](https://github.com/Alegarse/EED/blob/master/Complejos/img/muestra.PNG "Inicio del NumComplejo.java
+![Pantalla inicial](https://github.com/Alegarse/EED/blob/master/Complejos/img/muestra.PNG) 
+"Inicio del NumComplejo.java
