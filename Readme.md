@@ -1,16 +1,10 @@
-# BooksCrud
-Repositorio para la entrega del trabajo de CRUD. Si te gusta, dame una estrella :)
+# Práctica de JavaDoc
+## Asignatura: Entornos de Desarrollo - 1ºDAM
 
-Consiste a grosso modo en un directorio de los libros de que dispongo, así como los que tengo pendientes de leer, recomendaciones, etc...
-
-
-- Soporta introducción,edicción y borrado de libros;
-- Actualizacion en tiempo real: Una vez introducido un libro, se reordena el listado cronologicamente.
-- Trabaja sobre tres tablas de datos independientes.
-- Compatible con la mayoría de los navegadores (IE8+, Edge, Chrome, Opera...) en formato desktop.
+Consiste en realizar todos los comentarios JavaDoc pertenecientes al ejercicio propuesto.
 
 
-### Capturas de pantalla y descripción del contenido
+### Capturas de pantalla de muestra
 [![Pantalla inicial](https://github.com/Alegarse/BooksCrud/blob/master/Desc/Desc1.PNG "Pantalla inicial")](https://github.com/Alegarse/BooksCrud/blob/master/Desc/Desc1.PNG "Pantalla inicial")
 En la pantalla inicial se expone acerca del contenido del CRUD, además de comentarios del autor y links de contacto.
  
